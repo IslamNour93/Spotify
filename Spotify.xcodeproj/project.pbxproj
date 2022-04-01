@@ -29,6 +29,7 @@
 		39971E3C27F64776000A19DA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39971E3B27F64776000A19DA /* SceneDelegate.swift */; };
 		39971E4327F64778000A19DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39971E4227F64778000A19DA /* Assets.xcassets */; };
 		39971E4627F64778000A19DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39971E4427F64778000A19DA /* LaunchScreen.storyboard */; };
+		39BCE93027F7341A00A62ED7 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BCE92F27F7341A00A62ED7 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		39971E4227F64778000A19DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39971E4527F64778000A19DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39971E4727F64778000A19DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39BCE92F27F7341A00A62ED7 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 				39971E4227F64778000A19DA /* Assets.xcassets */,
 				39971E3927F64776000A19DA /* AppDelegate.swift */,
 				39971E3B27F64776000A19DA /* SceneDelegate.swift */,
+				39BCE92F27F7341A00A62ED7 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				3979A50027F64FD500EFFFDE /* LibraryViewController.swift in Sources */,
 				39971E3C27F64776000A19DA /* SceneDelegate.swift in Sources */,
 				3979A51E27F6525E00EFFFDE /* UserProfile.swift in Sources */,
+				39BCE93027F7341A00A62ED7 /* Extensions.swift in Sources */,
 				3979A50E27F6507700EFFFDE /* PlaylistViewController.swift in Sources */,
 				3979A51C27F6524400EFFFDE /* Artist.swift in Sources */,
 				3979A4FA27F64E8900EFFFDE /* TabBarViewController.swift in Sources */,
